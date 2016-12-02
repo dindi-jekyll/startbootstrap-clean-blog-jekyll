@@ -1,14 +1,14 @@
 ---
 title: Man must explore, and this is exploration at its greatest
 date: 2014-09-24 12:00:00 Z
-layout: post
 subtitle: Problems look mighty small from 150 miles up
 author: Start Bootstrap
 header-img: img/post-bg-06.jpg
+layout: post
 ---
 
 <p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
-
+![2.jpg](/uploads/2.jpg)
 <p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
 
 <p>What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.</p>
@@ -29,10 +29,10 @@ header-img: img/post-bg-06.jpg
 
 <h2 class="section-heading">Reaching for the Stars</h2>
 
-<p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
+<p>As we got further and further away, it \[the Earth\] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
+<img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
 </a>
 <span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
 
