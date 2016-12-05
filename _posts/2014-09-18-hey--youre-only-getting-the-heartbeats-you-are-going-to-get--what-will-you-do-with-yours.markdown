@@ -1,9 +1,8 @@
 ---
-title: I believe every human has a finite number of heartbeats. I don't intend to
-  waste any of mine.
-date: 2014-09-18 12:00:00 Z
+title: "hey. You're only getting the heartbeats you are going to get. What will you do with yours?"
+date: 2014-09-18 12:00:00
 author: Start Bootstrap
-photos-img: https://lh3.googleusercontent.com/VIQ5X_yEw2rQ3JfLXADaxviAp22NEOqRq3qLrKWO_IDkumsGgEmk2atusbRFee_0xrJyWP4T2uY=w1680-e30
+photos-img: 'https://lh3.googleusercontent.com/VIQ5X_yEw2rQ3JfLXADaxviAp22NEOqRq3qLrKWO_IDkumsGgEmk2atusbRFee_0xrJyWP4T2uY=w1680-e30'
 layout: post
 ---
 
