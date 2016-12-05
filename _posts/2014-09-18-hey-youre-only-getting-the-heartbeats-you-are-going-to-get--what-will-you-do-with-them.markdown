@@ -9,7 +9,8 @@ layout: post
 
 Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.
 
-![2.jpg](//lh3.googleusercontent.com/0XgrG8EURnFRXFWNzBqhkI-Bb1GRKz7LEklzgzqXGNCyYhtcfzPcvkmDxYuPgGLOJUQJ-45fzKM=s0-e30)&lt;p class="editable"&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
+![2.jpg](//lh3.googleusercontent.com/0XgrG8EURnFRXFWNzBqhkI-Bb1GRKz7LEklzgzqXGNCyYhtcfzPcvkmDxYuPgGLOJUQJ-45fzKM=s0-e30) Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.
+{: .editable}
 
 What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.
 
@@ -43,4 +44,5 @@ Space, the final frontier. These are the voyages of the Starship Enterprise. Its
 
 As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.
 
-&lt;pclass="editable"&gt;Placeholder text by [Space Ipsum](http://spaceipsum.com/). Photographs by [NASA on The Commons](https://www.flickr.com/photos/nasacommons/).&lt;/p&gt;
+Placeholder text by [Space Ipsum](http://spaceipsum.com/). Photographs by [NASA on The Commons](https://www.flickr.com/photos/nasacommons/).
+{: .editable}
