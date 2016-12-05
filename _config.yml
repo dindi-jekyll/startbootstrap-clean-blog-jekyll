@@ -18,7 +18,7 @@ twitter_username: SBootstrap
 github_username: davidtmiller
 facebook_username: IronSummitMedia
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: pretty
 paginate: 5
 exclude:
